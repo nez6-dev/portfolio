@@ -1,0 +1,25 @@
+/*Paleta de cores
+#ca3232 #a04242 #f51313 #754444 #4b3838 #332d2d
+*/
+*{
+    text-align: center;
+}
+.title{
+    color: #f51313;
+    font-family: 'Poppins';
+    text-align: center;
+}
+#nav{
+    background-color: #ca3232;
+    margin: 0px;
+    padding: 0px;
+    color: #4b3838;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+body{
+    background-color: #332d2d;
+    margin: 0px;
+}
