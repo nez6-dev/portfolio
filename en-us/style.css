@@ -51,8 +51,6 @@ h2{
 p{
     text-shadow: 1px 1px 1px black;
     font-family: sans-serif;
-    display: flex;
-    justify-content: space-between;
     margin: 0px;
 }
 span{
