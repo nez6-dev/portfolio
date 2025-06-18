@@ -108,8 +108,13 @@ iframe, .thumbs{
     width: 60%;
 }
 
-/*
-.edge-span{
-    display: flex;
-    justify-content: space-between;
+.frame:hover{
+    backdrop-filter: blur(20px);
+    width: 65%;
+    transition: 0.5s;
+    
+}
+.frame:not(:hover){
+    width: 60%;
+    transition: 0.5s;
 }
